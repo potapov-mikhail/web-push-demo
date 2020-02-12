@@ -1,0 +1,27 @@
+{
+  "name": "web-push-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "express": "4.17.1",
+    "web-push": "3.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potapov-mikhail/web-push-demo.git"
+  },
+  "keywords": [],
+  "author": "Mikhail Potapov <mpotapov.it@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/potapov-mikhail/web-push-demo/issues"
+  },
+  "homepage": "https://github.com/potapov-mikhail/web-push-demo#readme"
+}
